@@ -1,0 +1,13 @@
+api:
+  yahoo:
+    weather_url: https://map.yahooapis.jp/weather/V1/place?
+    zip_url: https://map.yahooapis.jp/search/zip/V1/zipCodeSearch?
+    client_id: # yahoo api id
+  chatwork:
+    base_url: https://api.chatwork.com/v2
+    client_id: # chatwork api ip
+datasource:
+  host: 'XXX.XXX.XXX.XXX'
+  db: dbname
+  user: user name
+  password: pw
